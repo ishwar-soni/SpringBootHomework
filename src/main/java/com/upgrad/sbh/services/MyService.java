@@ -6,4 +6,5 @@ import org.springframework.stereotype.Component;
 @Component
 @Profile("dev")
 public class MyService {
+
 }
